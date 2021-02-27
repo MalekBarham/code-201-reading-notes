@@ -7,7 +7,9 @@ and i love programming since when  i was a little chiled  , and i hope i will be
 a web developer one day.
 
 #for my operation system i used windows 10 - 64 bit. 
-and this is my github link i hope you all follow me ;- 
+
+*and this is my github link i hope you all follow me ;- 
+
 [MyGithubAccount](https://github.com/MalekBarham)
 
 *and for my linkedin account ;-
