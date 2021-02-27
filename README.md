@@ -15,6 +15,9 @@ a web developer one day.
 *and for my linkedin account ;-
 [MyprofileLinkedin](https://www.linkedin.com/in/malek-barham-5802781aa/)
 
+
+**and this is what i have learn form this 201-code;-
+
 |             |             |
 | ----------- | ----------- |
 |             |             |       
