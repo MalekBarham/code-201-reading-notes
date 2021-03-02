@@ -1,7 +1,7 @@
 #read03.md
  Changes to Content
 
-<ins>  :-  element can be used to show content that has been inserted into a document.
+ins tag :-    element can be used to show content that has been inserted into a document.
 <del>  tags :- element can show text that has been deleted from it.
 
 <s> tag :- The <s> element indicates something that is no longer accurate or relevant (but that should not be deleted).
