@@ -2,9 +2,9 @@
  Changes to Content
 
 ins tag :-    element can be used to show content that has been inserted into a document.
-<del>  tags :- element can show text that has been deleted from it.
+del  tags :- element can show text that has been deleted from it.
 
-<s> tag :- The <s> element indicates something that is no longer accurate or relevant (but that should not be deleted).
+ s tag :- The s element indicates something that is no longer accurate or relevant (but that should not be deleted).
 
 
 
@@ -23,8 +23,7 @@ Definition lists are made up of a set of terms along with the definitions for ea
 This example combines many of the techniques shown in this chapter.
 
 By default a box is sized just big enough to hold its contents. To set your own dimensions for a box you can use the height and width properties. 
-
-333.png  
+  
 
 The most popular ways to specify the size of a box are to use pixels
 
@@ -49,8 +48,7 @@ Border, Margin & Padding :-
 
 Every box has three available properties that can be adjusted to control its appearance: 
 
-the porder :- Every box has a border (even if
-it is not visible or is specified to be 0 pixels wide )
+the porder :- Every box has a border (even if it is not visible or is specified to be 0 pixels wide )
 
 the margin :- Margins sit outside the edge of the border.
 
@@ -79,7 +77,7 @@ Border Color ;- You can specify the color of a border using either RGB values, h
 Shorthand border :- The border property allows you
 to specify the width, style and color of a border in one property (and the values should be coded in that specific order).
 
----------------------------------------------------------------------------------
+
 
 padding ;- The padding property allows you to specify how much space should appear between the content of an element and its border.  
 
