@@ -15,8 +15,8 @@ numbered. For example, the list might be a set of steps for
 a recipe that must be performed in order, or a legal contract
 where each point needs to be identified by a section
 number.
-● Unordered lists are lists that begin with a bullet point (rather than characters that indicate order).
-● Definition lists are made up of a set of terms along with the definitions for each of those terms.
+Unordered lists are lists that begin with a bullet point (rather than characters that indicate order).
+Definition lists are made up of a set of terms along with the definitions for each of those terms.
 
 
 
@@ -151,7 +151,7 @@ is to make it much easier to use JavaScript on your website.
 
 A BASIC JQUERY EXAMPLE 
 
-44-1.png  
+
 
 
 
@@ -250,7 +250,6 @@ Use the  . html() and . text() methods are used on the same list (depending on w
 
 or elements are used in the selector).
 and how to update elements 
-66.png 
 
  
 
