@@ -5,7 +5,7 @@ Changes to Content
 
 <s> tag :- The <s> element indicates something that is no longer accurate or relevant (but that should not be deleted).
 
-------------------------------------------------------------------------------
+
 
 There are lots of occasions when we need to use lists. HTML provides us with three different types:
 
@@ -17,7 +17,7 @@ number.
 ● Unordered lists are lists that begin with a bullet point (rather than characters that indicate order).
 ● Definition lists are made up of a set of terms along with the definitions for each of those terms.
 
--------------------------------------------------------------------------------------
+
 
 This example combines many of the techniques shown in this chapter.
 
@@ -27,13 +27,13 @@ By default a box is sized just big enough to hold its contents. To set your own 
 
 The most popular ways to specify the size of a box are to use pixels
 
----------------------------------------------------------------------------------
+
 
 limiting hight 
 
 In the same way that you might want to limit the width of a box on a page, you may also want to limit the height of it.
 
------------------------------------------------------------------------------------
+
 
 Overflowing Content  ;-  The overflow property tells the
 browser what to do if the content contained within a box is larger than the box itself.
@@ -42,7 +42,7 @@ hidden :- This property simply hides any extra content that does not fit in the 
 
 scroll :- This property adds a scrollbar to the box so that users can scroll to see the missing content.
 
------------------------------------------------------------------------------------
+
 
 Border, Margin & Padding :- 
 
@@ -55,13 +55,13 @@ the margin :- Margins sit outside the edge of the border.
 
 the padding :- Padding is the space between the border of a box and any content contained within it.
 
------------------------------------------------------------------------------------
+
 
 White space & Vertical Margin ;-
 
 The padding and margin properties are very helpful in adding space between various items on the page.
 
-------------------------------------------------------------------------------------
+
 
 Border Style :- 
 
@@ -71,7 +71,7 @@ solid  : is a single solid line
 
 dotted a series of square dots (if your border is 2px wide, then the dots are 2px squared with a 2px gap between each do.
 
----------------------------------------------------------------------------------
+
 
 Border Color ;- You can specify the color of a border using either RGB values, hex codes or CSS color names.
 
@@ -87,12 +87,11 @@ margin :- The margin property controls the gap between boxes.
 Centering Content  :- If you want to center a box on
 the page (or center it inside the element that it sits in), you can set the left-margin and right-margin to auto.
 
----------------------------------------------------------------------------------
 
 IE6 Box Model  :- When you specify the width of
 a box, any padding or margin should be added to the width of it. Internet Explorer 6, however, has a quirk whereby it includes the padding and margins in the width of the box.
 
---------------------------------------------------------------------------------
+
 
 Change Inline/Block  :- 
 
@@ -100,7 +99,7 @@ Change Inline/Block  :-
 
 The display property allows you to turn an inline element into a block-level element or vice versa, and can also be used to hide an element from the page. 
 
---------------------------------------------------------------------------------------
+
 
 Hiding Boxes  :- The visibility property allows you to hide boxes from users but It leaves a space where the element would have been.
 
@@ -108,7 +107,7 @@ border-image :- The border-image property applies an image to the border of any 
 
  
 
--------------------------------------------------------------------------------------
+
 
 JS Box Model :-
 USING QUOTES INSIDE A STRING :- If you just want to use single
@@ -116,7 +115,7 @@ quotes in the string, you could surround the string in double quotes.
 
 You can also use a technique called escaping the quotation characters. This is done by using a backwards slash (or "backslash") before .
 
--------------------------------------------------------------------------------
+
 
 USING A VARIABLE TO STORE A BOOLEAN  :-
 
@@ -125,7 +124,7 @@ USING A VARIABLE TO STORE A BOOLEAN  :-
 First, Booleans are used when the value can only be true/ fa 1 se. You could also think of Tthese values as on/off or 0/1:
 true is equivalent to on or 1,
 
--------------------------------------------------------------------------------
+
 
 SHORTHAND FOR CREATING VARIABLES ;- 
 
@@ -135,7 +134,7 @@ SHORTHAND FOR CREATING VARIABLES ;-
 
 3- Two variables are declared and assigned values on the same line. 
 
------------------------------------------------------------------------------------
+
 
 CHANGING THE VALUE OF A VARIABLE  :- 
 
@@ -143,7 +142,7 @@ Once you have assigned a value to a variable, you can then change what is stored
 
 For example, the value of a shipping variable might start out as being false. Then something in the code might change the ability to ship the item and you could therefore change the value to true.
 
---------------------------------------------------------------------------------------
+
 
 What is jQURY ?
 
@@ -153,7 +152,7 @@ A BASIC JQUERY EXAMPLE
 
 44-1.png  
 
--------------------------------------------------------------------------------------
+
 
 WHY USE JQUERY?  
 
@@ -175,7 +174,7 @@ There are some tasks that front-end developers need to do regularly, such as loo
 
 jQuery automatically handles the inconsistent ways in which browsers select elements and handle events.
 
--------------------------------------------------------------------------------------
+
 
 FINDING ELEMENTS  
 
@@ -187,13 +186,13 @@ BASIC SELECTORS  :-
 
 element -------------------->    All elements with that element name  
 
-# ---------------------> Elements whose id attribute has the value specified  
+  # ---------------------> Elements whose id attribute has the value specified  
 
 .class  -------------->  Elements whose cl ass attribute has the value specified 
 
 selector l, selector2   ---------- >  Elements that match more than one selector (see also the .add() method, which is more efficient when combining selections) 
 
----------------------------------------------------------------------------------
+
 
 HIERARCHY 
 
@@ -206,7 +205,6 @@ previous + next    Adjacent sibling selector only selects elements that are imme
 previous -  Sibling selector will select any elements that are a sibling of the
 previous element
 
-------------------------------------------------------------------------------------
 
 BASIC FILTERS   
 
@@ -226,24 +224,24 @@ CONTENT FILTERS
 
 :parent  ------------------> All elements that have a child node (can be text or element)  
 
----------------------------------------------------------------------------
+
 
 LOOPING   
 
 In plain JavaScript, if you wanted to do the same thing to several elements, you would need to write code to loop through all of the elements you selected. 
 
-45.png----------------------------------------------------------------------------------
+
 
 CHAINING  :- If you want to use more than one jQuery method on the same selection of elements, you can list several methods at a time using dot notation to separate each one,   
 
 . html() :- When this method is used to retrieve information from a jQuery selection, it retrieves only the HTML inside the first element in the matched set, along with any of its descendants.
 
----------------------------------------------------------------------------------
+
 
 . text()
 When this method is used to retrieve the text from a jQuery selection, it returns the content from every element in the jQuery selection, along with the text from any descendants. 
 
---------------------------------------------------------------------------------
+
 
 GETTING AT CONTENT  
 
@@ -266,7 +264,6 @@ INSERTING ELEMENTS   ;-
 1: Create the new elements in a jQuery object
 2: Use a method to insert the content into the page 
 
-77.png  
 
  
 
