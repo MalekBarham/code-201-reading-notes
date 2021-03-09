@@ -1,0 +1,20 @@
+#How Websites Are Created ?
+
+When you are looking at a website, it is most likely that your browser will be receiving HTML and CSS from the web server that hosts the site , Some sites also send JavaScript or Flash to your browser.
+
+##How it is Created ?
+
+
+
+
+                                                 Small websites are often written just using HTML and CSS.
+
+  Larger websites — in particular those that are updated regularly and use a content management system (CMS), blogging tools, or
+e-commerce software — often make use of more complex  , Larger, more complex sites like
+these may use a database to store data, and programming languages such as PHP, ASP.Net
+
+                                                                            HTML5 & CSS3  ?
+
+Since the web was first created there have been several versions of HTML and CSS — each intended to be an improvement on the previous version , At the time of writing this book, HTML5 & CSS3 were still being developed. Although
+they had not been finalized  ,  Because HTML5 and CSS3
+build on previous versions of these languages.
